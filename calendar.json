@@ -1,0 +1,15 @@
+{
+    "fall_semester": {
+      "start_date": "2024-09-05",
+      "end_date": "2024-12-20"
+    },
+    "winter_semester": {
+      "start_date": "2025-01-08",
+      "end_date": "2025-04-25"
+    },
+    "reading_week": {
+      "start_date": "2025-02-17",
+      "end_date": "2025-02-21"
+    }
+  }
+  
